@@ -121,7 +121,7 @@ Key constants you can tune:
 ## Finished Product
 
 (Insert photos here – before/after, installed in car, OLED screenshots, etc.)
-![alt text](https://de.pinterest.com/pin/707135579033631707)
+![alt text](740il.jpg)
 
 ---
 
